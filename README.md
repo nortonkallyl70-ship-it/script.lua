@@ -26,7 +26,7 @@ task.spawn(function()
     repeat task.wait() until game:IsLoaded()
     repeat task.wait() until LP and LP.Character
 
-    local success, err = pcall(function()
+    local success, erro = pcall(function()
         loadstring(game:HttpGet("https://raw.githu4busercontent.com/AnhDangNhoEm/TuanAnhIOS/refs/heads/main/koby"))()
     end)
 
