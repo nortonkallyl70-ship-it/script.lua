@@ -12,7 +12,7 @@ local Window = Fluent:CreateWindow({
     TabWidth = 180,
     Size = UDim2.fromOffset(660, 440),
     Acrylic = false,
-    Theme = "Rose",
+    Theme = "Amethyst",
     MinimizeKey = Enum.KeyCode.End
 })
 
