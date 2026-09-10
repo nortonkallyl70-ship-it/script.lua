@@ -695,7 +695,7 @@ QuestNeta = function()
 end
 
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
-local Window = Fluent:CreateWindow({Title = "❤️caveirahub❤️",SubTitle = "| By:caveira ",TabWidth = 180,Size = UDim2.fromOffset(660, 440),Acrylic = false,Theme = "Rose",MinimizeKey = Enum.KeyCode.End})
+local Window = Fluent:CreateWindow({Title = "👾Mystichub👾",SubTitle = "| By:Mystic ",TabWidth = 180,Size = UDim2.fromOffset(660, 440),Acrylic = false,Theme = "Amethyst",MinimizeKey = Enum.KeyCode.End})
 	
 -- Services
 local CoreGui = game:GetService("CoreGui")
