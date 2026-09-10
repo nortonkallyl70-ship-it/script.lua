@@ -695,7 +695,7 @@ QuestNeta = function()
 end
 
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
-local Window = Fluent:CreateWindow({Title = "Mystic Hub",SubTitle = "| Purple & Black ",TabWidth = 180,Size = UDim2.fromOffset(660, 440),Acrylic = false,Theme = "Amethyst",MinimizeKey = Enum.KeyCode.End})
+local Window = Fluent:CreateWindow({Title = "❤️caveirahub❤️",SubTitle = "| By:caveira ",TabWidth = 180,Size = UDim2.fromOffset(660, 440),Acrylic = false,Theme = "Rose",MinimizeKey = Enum.KeyCode.End})
 	
 -- Services
 local CoreGui = game:GetService("CoreGui")
@@ -1358,7 +1358,7 @@ spawn(function()
 		          vim1:SendMouseButtonEvent(0, 0, 0, true, game, 1);wait(0.05)
                   vim1:SendMouseButtonEvent(0, 0, 0, false, game, 1);wait(0.05)
                 end
-		      end		            		
+		      end		            		    		
 		    until _G.FarmMastery_G == false or v.Humanoid.Health <= 0 or not v.Parent    
 		    SoulGuitar = false     		         		        
 		  else
@@ -1389,7 +1389,7 @@ spawn(function()
 		          vim1:SendMouseButtonEvent(0, 0, 0, true, game, 1);wait(0.05)
                   vim1:SendMouseButtonEvent(0, 0, 0, false, game, 1);wait(0.05)
                 end
-		      end		            		
+		      end		            		    		
 		    until _G.FarmMastery_G == false or v.Humanoid.Health <= 0 or not v.Parent    
 		    SoulGuitar = false     		         		        
 		  else
