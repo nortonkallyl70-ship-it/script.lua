@@ -6986,4 +6986,4 @@ task.spawn(function()
     end)
   end)
 end)
-Window:SelectTab(1)7
+Window:SelectTab(1)
