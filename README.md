@@ -1,7 +1,7 @@
 -- ═══════════════════════════════════════════════════════════
 -- SISTEMA DE KEY (adicionado)
 -- ═══════════════════════════════════════════════════════════
-local KEY_VALIDA = ""  -- deixa vazio pra aceitar qualquer key
+local KEY_VALIDA = "NO RADAR"  -- deixa vazio pra aceitar qualquer key
 
 task.spawn(function()
     repeat task.wait() until game:IsLoaded() and game.Players.LocalPlayer
